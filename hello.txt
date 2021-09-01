@@ -2,4 +2,4 @@ hello fish
 hello git
 hello tom 
 hello jack
-hello kang
+hello kang master test
